@@ -1,0 +1,13 @@
+a = 12
+b = 4.0
+c = 'is the best place to learn and practice coding!'
+
+a = int(input())
+b = float(input())
+c = str(input())
+
+m = a + i
+print(m)
+n = d + b
+print(n)
+print(s + c)
